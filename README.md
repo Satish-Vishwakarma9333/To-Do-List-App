@@ -38,8 +38,7 @@ It features a glassmorphism UI, smooth animations, task management, local storag
 
 ## 💡 How it Works
 
-- Tasks dynamically create hote hain JavaScript DOM se  
-- Completed tasks strike-through ho jate hain  
-- Data browser me LocalStorage me save hota hai  
-- Confetti animation completion par trigger hota hai  
-
+- Tasks are dynamically created using the JavaScript DOM
+- Completed tasks are shown with a strike-through effect
+- Data is saved in the browser using LocalStorage
+- A confetti animation is triggered when a task is completed 🎉
