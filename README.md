@@ -1,4 +1,4 @@
-# 📝 Premium To-Do List App
+# 📝 To-Do List App
 
 A beautiful, modern, and interactive To-Do List web application built using **HTML, CSS, and JavaScript**.  
 It features a glassmorphism UI, smooth animations, task management, local storage support, and a fun celebration confetti effect when completing tasks.
